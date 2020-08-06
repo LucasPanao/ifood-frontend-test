@@ -1,5 +1,5 @@
 # iFood Frontend Test
-
+test
 Create a web application called Spotifood used to display the preferred playlists from iFood's customers. The web application has only one page:
 * A page that lists the featured playlists at Spotify according to some criteria.
 
